@@ -13,6 +13,13 @@ body {
     box-sizing: border-box;
 }
 
+.logo-whats {
+    width: 5px;
+    height: 5px;
+    padding: 10px;
+    display: inline-block;
+}
+
 span {
     color: #22d458;
 }
@@ -93,8 +100,8 @@ h1 {
 }
 
 .img-capa {
-    width: 525px;
-    height: 495px;
+    width: 450px;
+    height: 500px;
 }
 
 /*COMO PODEMOS AJUDAR*/
@@ -175,6 +182,7 @@ p {
     width: 345px;
     border-radius: 30px;
     border: 2px solid #22d458;
+    background-color: #153E54;
 }
 
 .img-1 {
@@ -197,10 +205,6 @@ p {
 
 .card-2-txt {
     padding: 20px;
-}
-
-img {
-    margin-right: 10px;
 }
 
 /*FAQ*/
@@ -327,7 +331,7 @@ details p {
 
     .img-capa {
         width: 280px;
-        height: 220px;
+        height: 350px;
         margin-top: 40px;
 
     }
